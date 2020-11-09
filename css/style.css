@@ -1,0 +1,22 @@
+h1{
+	color:blue;
+}
+
+p{
+	color:gray;
+}
+
+ul li{
+	display: inline-block;
+	border: 1px solid black;
+	background-color: #960aaa;
+	width: 10%;
+	height: 5%;
+	padding: 1%;
+	}
+
+ul li a{
+	text-decoration: none;
+	color:yellow;
+	padding:inherit;
+}
